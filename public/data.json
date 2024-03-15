@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "brand": "Bugatti",
+      "model": "La Voiture Noire",
+      "price_usd": "$18,680,000",
+      "country": "France",
+      "engine": {
+        "type": "W16",
+        "displacement": "8.0 L",
+        "power_output": "1500 hp"
+      },
+      "top_speed": "261 mph",
+      "acceleration_0_60": "Less than 2.5 sec",
+      "image": "/src/assets/image/b.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "Pagani",
+      "model": "Zonda HP Barchetta",
+      "price_usd": "$17,000,000",
+      "country": "Italy",
+      "engine": {
+        "type": "V12",
+        "displacement": "6.0 L",
+        "power_output": "800 hp"
+      },
+      "top_speed": "Unknown",
+      "acceleration_0_60": "Unknown",
+      "image": "/src/assets/image/p1.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "Rolls-Royce",
+      "model": "Sweptail",
+      "price_usd": "$13,000,000",
+      "country": "United Kingdom",
+      "engine": {
+        "type": "V12",
+        "displacement": "6.75 L",
+        "power_output": "453 hp"
+      },
+      "top_speed": "150 mph",
+      "acceleration_0_60": "Unknown",
+      "image": "/src/assets/image/r1.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "Bugatti",
+      "model": "Centodieci",
+      "price_usd": "$9,000,000",
+      "country": "France",
+      "engine": {
+        "type": "W16",
+        "displacement": "8.0 L",
+        "power_output": "1600 hp"
+      },
+      "top_speed": "236 mph",
+      "acceleration_0_60": "2.4 sec",
+      "image": "/src/assets/image/b3.jpg"
+    },
+    {
+      "id": 5,
+      "brand": "Bugatti",
+      "model": "Divo",
+      "price_usd": "$5,800,000",
+      "country": "France",
+      "engine": {
+        "type": "W16",
+        "displacement": "8.0 L",
+        "power_output": "1500 hp"
+      },
+      "top_speed": "236 mph",
+      "acceleration_0_60": "2.4 sec",
+      "image": "/src/assets/image/b5.webp"
+    },
+    {
+      "id": 6,
+      "brand": "Lamborghini",
+      "model": "Veneno Roadster",
+      "price_usd": "$4,500,000",
+      "country": "Italy",
+      "engine": {
+        "type": "V12",
+        "displacement": "6.5 L",
+        "power_output": "750 hp"
+      },
+      "top_speed": "221 mph",
+      "acceleration_0_60": "2.9 sec",
+      "image": "/src/assets/image/b7.webp"
+    },
+    {
+      "id": 7,
+      "brand": "Koenigsegg",
+      "model": "Jesko",
+      "price_usd": "$3,000,000",
+      "country": "Sweden",
+      "engine": {
+        "type": "V8",
+        "displacement": "5.0 L",
+        "power_output": "1600 hp"
+      },
+      "top_speed": "300+ mph",
+      "acceleration_0_60": "Unknown",
+      "image": "/src/assets/image/b6.jpg"
+    },
+    {
+      "id": 8,
+      "brand": "Ferrari",
+      "model": "LaFerrari Aperta",
+      "price_usd": "$3,000,000",
+      "country": "Italy",
+      "engine": {
+        "type": "V12",
+        "displacement": "6.3 L",
+        "power_output": "950 hp"
+      },
+      "top_speed": "217 mph",
+      "acceleration_0_60": "Less than 3.0 sec",
+      "image": "/src/assets/image/p1.jpg"
+    },
+    {
+      "id": 9,
+      "brand": "McLaren",
+      "model": "Speedtail",
+      "price_usd": "$2,500,000",
+      "country": "United Kingdom",
+      "engine": {
+        "type": "V8",
+        "displacement": "4.0 L",
+        "power_output": "1035 hp"
+      },
+      "top_speed": "250 mph",
+      "acceleration_0_60": "Unknown",
+      "image": "/src/assets/image/b7.webp"
+    },
+    {
+      "id": 10,
+      "brand": "Aston Martin",
+      "model": "Valkyrie",
+      "price_usd": "$2,300,000",
+      "country": "United Kingdom",
+      "engine": {
+        "type": "V12",
+        "displacement": "6.5 L",
+        "power_output": "1000 hp"
+      },
+      "top_speed": "250+ mph",
+      "acceleration_0_60": "Less than 2.5 sec",
+      "image": "/src/assets/image/b8.jpeg"
+    }
+  ]
+  
